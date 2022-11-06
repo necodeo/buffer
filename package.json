@@ -1,0 +1,23 @@
+{
+    "name": "@necodeo/buffer",
+    "version": "1.0.0",
+    "description": "",
+    "author": "dawid@necodeo.com",
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/necodeo/buffer.git"
+    },
+    "main": "./index.mjs",
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "engines": {
+        "node": ">=6.9.0"
+    },
+    "type": "module"
+}
